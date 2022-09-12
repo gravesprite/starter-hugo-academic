@@ -5,6 +5,7 @@ headless: true
 weight: 60
 title: Recent Posts
 subtitle: null
+active: true
 content:
   filters:
     folders:
