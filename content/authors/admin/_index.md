@@ -4,9 +4,9 @@ role: Ph.D Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning for Data Management
+  - Query Processing
+  - Query Optimizer
 social:
   - icon: envelope
     icon_pack: fas
