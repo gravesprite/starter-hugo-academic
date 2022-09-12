@@ -16,7 +16,7 @@ content:
   autolink: true
   address:
     street: 50 Nanyang Ave, 639798
-    city: 
+    city: Singapore
     region: SG
     postcode: "639798"
     country: Singapore
