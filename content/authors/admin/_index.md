@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Machine Learning for Data Management
   - Query Processing
-  - Query Optimizer
+  - Query Optimization
 social:
   - icon: envelope
     icon_pack: fas
