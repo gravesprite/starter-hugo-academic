@@ -1,5 +1,6 @@
 ---
 widget: experience
+active: false
 date_format: Jan 2006
 experience:
   - title: CEO
