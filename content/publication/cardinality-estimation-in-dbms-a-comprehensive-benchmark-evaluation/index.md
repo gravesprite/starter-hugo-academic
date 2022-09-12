@@ -43,7 +43,7 @@ abstract: "Cardinality estimation (CardEst) plays a significant role in
   limitation of Q-Error and is able to reflect the overall end-to-end
   performance of CardEst methods."
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
