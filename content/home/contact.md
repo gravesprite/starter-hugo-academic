@@ -14,6 +14,7 @@ content:
     netlify:
       captcha: false
   autolink: true
+  email: jiangnen002@e.ntu.edu.sg
   address:
     street: 50 Nanyang Ave, 639798
     city: Singapore
