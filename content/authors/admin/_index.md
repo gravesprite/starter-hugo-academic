@@ -1,5 +1,5 @@
 ---
-title: Jiangneng Li
+title: Jiangneng Li (李江能)
 role: Ph.D Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
