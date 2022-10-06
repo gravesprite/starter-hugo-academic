@@ -1,6 +1,6 @@
 ---
 title: Jiangneng Li
-role: Ph.D Student
+role: Ph.D Candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
