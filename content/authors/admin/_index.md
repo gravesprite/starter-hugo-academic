@@ -1,12 +1,14 @@
 ---
 title: Jiangneng Li
 role: Ph.D Candidate
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My current research interests include Applied Machine Learning for Data Management and Spatial Data Management.
 interests:
-  - Machine Learning for Data Management
-  - Query Processing
-  - Query Optimization
+  - Database Systems
+  - Spatial Data Management
+  - Applied Machine Learning for Data Management
+  # - Machine Learning for Data Management
+  # - Query Processing
+  # - Query Optimization
 social:
   # - icon: envelope
   #   icon_pack: fas
@@ -35,8 +37,8 @@ email: jiangnen002@e.ntu.edu.sg
 superuser: true
 highlight_name: true
 ---
-Jiangneng Li is currently a Ph.D. candidate Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Kiah Han Mao](https://personal.ntu.edu.sg/hmkiah/). Before joining NTU, I was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence).
+Jiangneng Li is currently a Ph.D. candidate Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Kiah Han Mao](https://personal.ntu.edu.sg/hmkiah/). Before joining NTU, I was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence).
 
-My current research interests include Machine Learning for Data Management and Query Optimization.
+My current research interests include Applied Machine Learning for Data Management and Spatial Data Management.
 
 Contact: jiangnen002 AT e.ntu.edu.sg
