@@ -17,7 +17,7 @@ authors:
   - Jingren Zhou
   - admin
   - Bin Cui
-publication: in PVLDB
+publication: PVLDB 2022
 abstract: "Cardinality estimation (CardEst) plays a significant role in
   generating high-quality query plans for a query optimizer in DBMS. In the last
   decade, an increasing number of advanced CardEst methods (especially ML-based)
@@ -43,7 +43,7 @@ abstract: "Cardinality estimation (CardEst) plays a significant role in
   limitation of Q-Error and is able to reflect the overall end-to-end
   performance of CardEst methods."
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
