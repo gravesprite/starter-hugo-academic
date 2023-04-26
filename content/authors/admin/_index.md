@@ -29,10 +29,10 @@ education:
   courses:
     - course: Ph.D
       institution: Nanyang Technological University
-      year: 2021-Now
+      year: 2021--Now
     - course: BSc in Computer Science
       institution: Beihang University
-      year: 2016-2020
+      year: 2016--2020
 email: jiangnen002@e.ntu.edu.sg
 superuser: true
 highlight_name: true
