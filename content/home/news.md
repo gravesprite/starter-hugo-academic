@@ -1,4 +1,21 @@
 ---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: News
+subtitle:
+weight: 30  # section position on page
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
+---
+
+New paper
+
+
+<!-- ---
 title: News
 type: widget_page
 headless: true
@@ -7,7 +24,7 @@ weight: 30
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  
+
 content:
   text: A new paper published in PVLDB 2023. 
 
@@ -22,7 +39,7 @@ content:
 #       # Choose how many columns the section has. Valid values: '1' or '2'.
 #       columns: '1'
 ---
-
+ -->
 <!-- A new paper published in PVLDB 2023. -->
 
 <!-- ---
