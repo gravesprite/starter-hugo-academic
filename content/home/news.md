@@ -6,7 +6,7 @@ type: landing
 
 weight: 30
 
-test: New paper
+text: New paper
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
