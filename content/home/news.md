@@ -12,5 +12,5 @@ design:
   columns: '2'
 ---
 
-* One new paper got published in [PVLDB 2023](https://vldb.org/2023/).
+* One new paper got accepted in [PVLDB 2023](https://vldb.org/2023/).
 
