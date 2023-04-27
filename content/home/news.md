@@ -1,12 +1,16 @@
 ---
 title: News
-type: landing
+type: widget_page
 headless: true
 weight: 30
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  
+content:
+  text: A new paper published in PVLDB 2023. 
+
 # sections:
 #   - block: markdown
 #     content:
@@ -19,7 +23,7 @@ design:
 #       columns: '1'
 ---
 
-A new paper published in PVLDB 2023.
+<!-- A new paper published in PVLDB 2023. -->
 
 <!-- ---
 # Page title
