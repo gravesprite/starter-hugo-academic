@@ -1,18 +1,25 @@
 ---
 title: News
 type: landing
+headless: true
+weight: 30
 
-sections:
-  - block: markdown
-    content:
-      title: My title
-      subtitle: My subtitle
-      text: A new paper published in PVLDB 2023.
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+# sections:
+#   - block: markdown
+#     content:
+#       title: My title
+#       subtitle: My subtitle
+#       text: A new paper published in PVLDB 2023.
+#     design:
+#       # See Page Builder docs for all section customization options.
+#       # Choose how many columns the section has. Valid values: '1' or '2'.
+#       columns: '1'
 ---
+
+A new paper published in PVLDB 2023.
 
 <!-- ---
 # Page title
