@@ -1,4 +1,20 @@
 ---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: News
+subtitle:
+weight: 30  # section position on page
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+---
+
+New paper
+
+<!-- ---
 # Page title
 title: News
 # Page type - we want a landing page (such as a homepage)
@@ -6,7 +22,7 @@ type: landing
 
 weight: 30
 
-text: New paper
+# text: New paper
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
@@ -22,4 +38,4 @@ sections:
   #     title: Section 2
   #     subtitle: A subtitle
   #     text: Add your Section 2 content here...
----
+--- -->
