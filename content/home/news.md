@@ -1,4 +1,20 @@
 ---
+title: News
+type: landing
+
+sections:
+  - block: markdown
+    content:
+      title: My title
+      subtitle: My subtitle
+      text: A new paper published in PVLDB 2023.
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+---
+
+<!-- ---
 # Page title
 title: News
 # Page type - we want a landing page (such as a homepage)
@@ -22,7 +38,7 @@ sections:
   #     title: Section 2
   #     subtitle: A subtitle
   #     text: Add your Section 2 content here...
----
+--- -->
 
 
 <!-- ---
