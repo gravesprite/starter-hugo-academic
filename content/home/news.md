@@ -6,6 +6,8 @@ type: landing
 
 weight: 30
 
+test: New paper
+
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
