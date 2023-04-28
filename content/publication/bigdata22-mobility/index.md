@@ -18,4 +18,7 @@ image:
   focal_point: Smart
   preview_only: true
 date: 2022-11-01T08:18:00.000Z
+
+url_pdf: "https://arxiv.org/pdf/2211.08200.pdf"
+
 ---
