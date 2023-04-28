@@ -1,6 +1,6 @@
 ---
 title: "Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation"
-url_code = "https://arxiv.org/pdf/2109.05877.pdf"
+# url_code = "https://arxiv.org/pdf/2109.05877.pdf"
 publication_types:
   - "1"
 authors:
