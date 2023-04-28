@@ -1,5 +1,5 @@
 ---
-title: "OMulti-skill aware task assignment in real-time spatial
+title: "Multi-skill aware task assignment in real-time spatial
 crowdsourcing"
 publication_types:
   - "2"
