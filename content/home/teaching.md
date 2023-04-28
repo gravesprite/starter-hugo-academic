@@ -12,4 +12,4 @@ design:
   columns: '2'
 ---
 
-* Discrete Methods, Teaching Assistant, 2022-2023
+* MH1301 Discrete Method, Teaching Assistant, 2022-2023
