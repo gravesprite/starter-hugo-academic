@@ -1,5 +1,5 @@
 ---
-title: Jiangneng Li
+title: Jiangneng Li (李 江能)
 role: Ph.D Candidate
 bio: My current research interests include Applied Machine Learning for Data Management and Spatial Data Management.
 interests:
