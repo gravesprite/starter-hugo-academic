@@ -12,4 +12,5 @@ design:
   columns: '2'
 ---
 
-* [MH1301] Discrete Method, Teaching Assistant, 2022-2023
+* [MH1301] Discrete Mathematics, Teaching Assistant, 2022 Spring, 2022 Fall, 2023 Spring
+* [MH1802] Introduction to Probability and Statistical Methods, eaching Assistant, 2022 Spring
