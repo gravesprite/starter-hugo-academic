@@ -20,6 +20,6 @@ image:
 date: 2023-04-17T08:18:00.000Z
 
 url_code: "https://github.com/gravesprite/Learned-BMTree"
-# url_pdf: "p1347-li.pdf"
+url_pdf: "p1347-li.pdf"
 
 ---
