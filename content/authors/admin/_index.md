@@ -27,7 +27,7 @@ organizations:
     url: https://www.ntu.edu.sg/
 education:
   courses:
-    - course: Ph.D
+    - course: PhD
       institution: Nanyang Technological University
       year: 2021 -- Now
     - course: BSc in Computer Science
@@ -37,7 +37,7 @@ email: jiangnen002@e.ntu.edu.sg
 superuser: true
 highlight_name: true
 ---
-I am currently a PhD candidate at Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Kiah Han Mao](https://personal.ntu.edu.sg/hmkiah/). Before joining NTU, I was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence).
+I am currently a PhD candidate at Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Han Mao Kiah](https://personal.ntu.edu.sg/hmkiah/). Before joining NTU, I was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence).
 
 My current research interests include Applied Machine Learning for Data Management and Spatial Data Management.
 
