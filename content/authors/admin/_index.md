@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD
       institution: Nanyang Technological University
-      year: 2021 -- Now
+      year: 2021 -- Present
     - course: BSc in Computer Science
       institution: Beihang University
       year: 2016 -- 2020
