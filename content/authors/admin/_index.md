@@ -37,8 +37,8 @@ email: jiangnen002@e.ntu.edu.sg
 superuser: true
 highlight_name: true
 ---
-I am currently a PhD candidate at Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Han Mao Kiah](https://personal.ntu.edu.sg/hmkiah/). Before joining NTU, I was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence).
+Jiangneng Li (李 江能) is currently a PhD candidate at Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Han Mao Kiah](https://personal.ntu.edu.sg/hmkiah/). Before joining NTU, he was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence).
 
-My current research interests include Applied Machine Learning for Data Management and Spatial Data Management.
+His current research interests include Applied Machine Learning for Data Management and Spatial Data Management.
 
 Contact: jiangnen002 AT e.ntu.edu.sg
