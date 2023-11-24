@@ -22,4 +22,5 @@ date: 2023-04-17T08:18:00.000Z
 url_code: "https://github.com/gravesprite/Learned-BMTree"
 url_pdf: "publication/vldb23-lsfc/p1347-li.pdf"
 url_slides: "publication/vldb23-lsfc/slides_p1347-li.pdf"
+url_video: "https://www.youtube.com/watch?v=uxw7RSWdIp0"
 ---
