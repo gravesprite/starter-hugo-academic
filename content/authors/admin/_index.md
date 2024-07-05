@@ -1,7 +1,7 @@
 ---
 title: Jiangneng Li
 role: PhD Candidate
-bio: My current research interests include Applied Machine Learning for Data Management and Multidimensional Data Management.
+bio: His current research interests include Applied Machine Learning for Data Management and Multidimensional Data Management.
 interests:
   - Database Systems
   - Multidimensional Data Management

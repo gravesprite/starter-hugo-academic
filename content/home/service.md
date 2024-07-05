@@ -18,7 +18,7 @@ design:
 
 * <span style="font-family: 'Courier', monospace;"> Neurips2024 </span>
 
-* External Reviewer of <span style="font-family: 'Courier', monospace;"> VLDB2023-2024, SIGMOD2023-2024, ICDE2022-2024, SIGKDD2023 </span>
+* External Reviewer of <span style="font-family: 'Courier', monospace;"> PVLDB2022--2024, SIGMOD2022--2024, ICDE2022--2024, SIGKDD2022 </span>
 
 #### Journal Paper
 * <span style="font-family: 'Courier', monospace;"> TKDE, TSAS </span>
