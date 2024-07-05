@@ -12,5 +12,5 @@ design:
   columns: '2'
 ---
 
-* [MH1301] Discrete Mathematics, Teaching Assistant, 2022 Spring, 2022 Fall, 2023 Spring
-* [MH1802] Introduction to Probability and Statistical Methods, Teaching Assistant, 2022 Spring
+* <span style="font-family: 'Courier', monospace;">[MH1301] </span> Discrete Mathematics, Teaching Assistant, 2022 Spring, 2022 Fall, 2023 Spring
+* <span style="font-family: 'Courier', monospace;">[MH1802] </span> Introduction to Probability and Statistical Methods, Teaching Assistant, 2022 Spring

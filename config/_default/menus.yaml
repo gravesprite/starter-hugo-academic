@@ -26,6 +26,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- # - name: CV
- #   url: uploads/jnl_resume.pdf
- #   weight: 30
+ - name: CV
+   url: 'static/uploads/jnl_resume.pdf'
+   weight: 30
