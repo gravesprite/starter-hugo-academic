@@ -16,7 +16,7 @@ design:
 
 #### Conference Paper
 
-* <span style="font-family: 'Courier', monospace;"> Neurips2024 </span>
+* <span style="font-family: 'Courier', monospace;"> ICLR2025, Neurips2024 </span>
 
 * External Reviewer of <span style="font-family: 'Courier', monospace;"> PVLDB2022--2024, SIGMOD2022--2024, ICDE2022--2024, SIGKDD2022 </span>
 
