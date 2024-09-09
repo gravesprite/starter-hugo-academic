@@ -38,6 +38,7 @@ superuser: true
 highlight_name: true
 ---
 Jiangneng Li (李 江能) is currently a PhD candidate at Nanyang Technological University, co-supervised by [Prof. Gao Cong](https://personal.ntu.edu.sg/gaocong/) and [Prof. Han Mao Kiah](https://personal.ntu.edu.sg/hmkiah/). Prior to joining NTU, he was an intern researcher in [DAMO, Alibaba Group](https://damo.alibaba.com/labs/data-analytics-and-intelligence). 
+Before that, he obtained his B.E. degree in Computer Science from [Beihang University], advised by [Prof. Yongxin Tong](https://scholar.google.com/citations?hl=zh-CN&user=aeCHfDIAAAAJ).
 
 His current research interests include Applied Machine Learning for Data Management and Multidimensional Data Management.
 
